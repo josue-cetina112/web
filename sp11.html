@@ -1,0 +1,132 @@
+<html>
+<head>
+    <title>Estadísticas Checo Pérez</title>
+    <style>
+        body {
+            background-image: url('funo.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: -1;
+        }
+        
+        .contenedor-foto {
+            width: 300px;
+            float: left;
+            margin-right: 30px;
+        }
+        .contenedor-estadisticas {
+            float: left;
+            width: calc(100% - 330px);
+        }
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        
+        /* Mantenemos todos tus estilos originales */
+        body {
+            text-align: left;
+            color: white;
+        }
+        a:link {
+            color: red;
+        }
+        a:visited {
+            color: gray;
+        }
+        a:active {
+            color: white;
+        }
+    </style>
+</head>
+<body bgcolor="black" text="white" link="red" alink="white" vlink="gray">
+    <hr size="1" color="red">
+
+    <div class="clearfix">
+        <!-- Foto de Checo Pérez a la izquierda -->
+        <div class="contenedor-foto">
+            <img src="perez.avif" width="100%" border="1">
+            <font size="7" color="red" align="center"><b>11 SERGIO "CHECO" PÉREZ</b></font>
+        </div>
+
+        <!-- Estadísticas a la derecha -->
+        <div class="contenedor-estadisticas">
+            <font size="6" face="Arial"><u>ESTADÍSTICAS SERGIO PÉREZ</u></font>
+            
+            <!-- Estadísticas en 2 columnas -->
+            <table width="100%" border="0" cellspacing="15">
+                <tr>
+                    <!-- Columna izquierda -->
+                    <td width="50%" valign="top">
+                        <table width="100%" border="0" cellspacing="10">
+                            <tr>
+                                <td bgcolor="#111111" align="center">
+                                    <font size="5" color="red"><b>3</b></font><br>
+                                    <font size="3">POLES</font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td bgcolor="#111111" align="center">
+                                    <font size="5" color="red"><b>12</b></font><br>
+                                    <font size="3">Vueltas Rápidas</font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td bgcolor="#111111" align="center">
+                                    <font size="5" color="red"><b>1638</b></font><br>
+                                    <font size="3">PUNTOS</font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+
+                    <!-- Columna derecha -->
+                    <td width="50%" valign="top">
+                        <table width="100%" border="0" cellspacing="10">
+                            <tr>
+                                <td bgcolor="#111111" align="center">
+                                    <font size="5" color="red"><b>6</b></font><br>
+                                    <font size="3">VICTORIAS</font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td bgcolor="#111111" align="center">
+                                    <font size="5" color="red"><b>281</b></font><br>
+                                    <font size="3">GRANDES PREMIOS</font>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+            <!-- Sección inferior -->
+            <table width="100%" border="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <hr size="1" color="red">
+                        <font size="4" face="Arial"><b>F1</b></font><br>
+                        <font size="3">PILOTOS F1 2025 - SERGIO PÉREZ</font>
+                        <hr size="1" color="red">
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>

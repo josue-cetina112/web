@@ -1,0 +1,119 @@
+<html>
+<head>
+    <title>FORMULA 1 | INICIO</title>
+</head>
+<body bgcolor="black" text="white" link="red" alink="white" vlink="gray">
+
+    <font face="Arial" size="5"> 
+        <p align="center">
+            <b>FORMULA</b><font color="red"><i>1</i></font>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="index.html" title="Página principal de Sergio Pérez">INICIO</a> | 
+            <a href="https://es.wikipedia.org/wiki/Sergio_P%C3%A9rez" target="_blank" title="Biografía oficial en Wikipedia">BIOGRAFÍA</a> | 
+            <a href="galeria.html" title="Galería de fotos del Checo">GALERÍA</a> | 
+            <a href="https://www.formula1.com" target="_blank" title="Sitio oficial de la Fórmula 1">FORMULA 1</a> | 
+            <a href="https://www.formula1.com/en/racing/2023.html" target="_blank" title="Calendario de Grand Prix 2023">GRAND PRIX</a>
+        </p>
+    </font>
+    <hr size="1" color="red">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td background="Sergio Pérez.jpg" height="500" valign="bottom" >
+                <font size="7" face="Arial" color="white">
+                    <strong>SERGIO "CHECO" PÉREZ <font color="red">SP11</font></strong><br>
+                </font>
+                <font size="4">NEVER GIVE UP!!! </font><br><br>
+                <a href="https://www.redbull.com/int-en/tags/checo-perez" target="_blank" title="Perfil de Checo Pérez en Red Bull Racing">
+                    <font color="white" size="4"><b>Ver más</b></font>
+                </a>
+            </td>
+        </tr>
+    </table>
+
+    <p align="center">
+        <font size="6" face="Arial"><u>MEJORES <font color="red">CARRERAS</font></u></font>
+    </p>
+
+    <table width="80%" align="center" border="0" cellspacing="20">
+        <tr>
+            <td width="33%" bgcolor="#111111">
+                <img src="SP11.jpg" width="100%" border="1"><br>
+                <font color="red" size="2"><tt>2020</tt></font><br>
+                <font size="4"><b>Gran Premio de Sakhir</b></font><br>
+                <font size="2">La primera victoria de checo y el gran cambio a su carrera.</font><br>
+                <a href="https://www.youtube.com/watch?v=6G1B8v8Z3e8" target="_blank" title="Resumen de la victoria en Sakhir 2020">
+                    <font color="red">Leer más →</font>
+                </a>
+            </td>
+            
+            <td width="33%" bgcolor="#111111">
+                <img src="AZERBAIYAN.jpg" width="100%" border="1"><br>
+                <font color="red" size="2"><em>2021</em></font><br>
+                <font size="4"><b>Gran Premio de Azerbaiyán</b></font><br>
+                <font size="2">La mejor actuación en conducción, Él es Checo Pérez!</font><br>
+                <a href="https://www.youtube.com/watch?v=J9Y8uWX0Hk8" target="_blank" title="Checo domina en las calles de Bakú">
+                    <font color="red">Leer más →</font>
+                </a>
+            </td>
+
+            <td width="33%" bgcolor="#111111">
+                <img src="MONACO.jpg" width="100%" border="1"><br>
+                <font color="red" size="2">2021</font><br>
+                <font size="4"><b>Gran Premio de Mónaco</b></font><br>
+                <font size="2">Sergio Pérez el Rey de Las Calles conquista Mónaco.</font><br>
+                <a href="https://www.youtube.com/watch?v=5f5k3V4caGI" target="_blank" title="Checo gana en el circuito más icónico">
+                    <font color="red">Leer más →</font>
+                </a>
+            </td>
+        </tr>
+    </table>
+
+    <!-- Nueva sección GALERÍA -->
+    <p align="center">
+        <font size="6" face="Arial"><u><a href="galeria.html" title="Explora la galería completa">GALERÍA</a></u></font>
+    </p>
+
+    <table width="80%" align="center" border="0" cellspacing="20">
+        <!-- Fila 1 -->
+        <tr>
+            <td width="20%" bgcolor="#111111" align="center">
+                <a href="galeria_checo1.html" title="Checo en el podio - Malasia 2012">
+                    <img src="checo1.jpg" width="100%" border="1"><br>
+                    <font size="3"><b>Primer podio</b></font><br>
+                    <font size="2" color="gray">Malasia 2012</font>
+                </a>
+            </td>
+            <td width="20%" bgcolor="#111111" align="center">
+                <a href="galeria_checo2.html" title="Celebrando con Red Bull">
+                    <img src="checo2.jpg" width="100%" border="1"><br>
+                    <font size="3"><b>Con Red Bull</b></font><br>
+                    <font size="2" color="gray">2021-presente</font>
+                </a>
+            </td>
+            <td width="20%" bgcolor="#111111" align="center">
+                <a href="galeria_checo3.html" title="Checo en acción">
+                    <img src="checo3.jpg" width="100%" border="1"><br>
+                    <font size="3"><b>En la pista</b></font><br>
+                    <font size="2" color="gray">Estilo agresivo</font>
+                </a>
+            </td>
+            <td width="20%" bgcolor="#111111" align="center">
+                <a href="galeria_checo4.html" title="Fuera de la pista">
+                    <img src="checo4.jpg" width="100%" border="1"><br>
+                    <font size="3"><b>Vida personal</b></font><br>
+                    <font size="2" color="gray">Con su familia</font>
+                </a>
+            </td>
+            <td width="20%" bgcolor="#111111" align="center">
+                <a href="galeria_checo5.html" title="El héroe de México">
+                    <img src="checo5.jpg" width="100%" border="1"><br>
+                    <font size="3"><b>Orgullo mexicano</b></font><br>
+                    <font size="2" color="gray">Fanáticos</font>
+                </a>
+            </td>
+        </tr>
+        <!-- Descripciones extendidas (aparecerán al hacer clic) -->
+    </table>
+
+</body>
+</html>
